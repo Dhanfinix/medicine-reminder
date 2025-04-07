@@ -2,6 +2,8 @@
 
 A RESTful API for managing medicine reminders. This API allows you to create, read, update, and delete medicine records with their dosage, frequency, and timing information.
 
+> This project was created entirely using [Cursor](https://cursor.sh), the AI-first code editor.
+
 ## Features
 
 - CRUD operations for medicine records
