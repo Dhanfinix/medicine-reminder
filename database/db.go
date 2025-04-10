@@ -29,7 +29,7 @@ func DefaultConfig() Config {
 		Host:     "localhost",
 		Port:     5432,
 		User:     "postgres",
-		Password: "081358226221Ra",
+		Password: "123123",
 		DBName:   "medicine_reminder",
 		SSLMode:  "disable",
 	}
